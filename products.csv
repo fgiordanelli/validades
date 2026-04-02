@@ -1,5 +1,37 @@
-﻿id,name,category,shelf_life_days,storage,active
-1,Farinha,Secos,30,Ambiente,True
-2,Leite,Refrigerados,3,Refrigerado,True
-3,Molho da Casa,Produção,5,Refrigerado,True
-4,Frango,Proteínas,2,Refrigerado,True
+id,name,category,shelf_life_days,storage,active
+1,Mozzarelline,Refrigerados,5,Refrigerado,True
+2,Burrata,Refrigerados,3,Refrigerado,True
+3,Gorgonzola,Refrigerados,7,Refrigerado,True
+4,Presunto de Parma,Embutidos,5,Refrigerado,True
+5,Calabresa,Embutidos,5,Refrigerado,True
+6,Pepperoni,Embutidos,5,Refrigerado,True
+7,Mussarela de búfala,Refrigerados,5,Refrigerado,True
+8,Cogumelo,Hortifruti,3,Refrigerado,True
+9,Cogumelo fresco,Hortifruti,3,Refrigerado,True
+10,Tomate seco,Conservas,7,Refrigerado,True
+11,Azeitona,Conservas,7,Refrigerado,True
+12,Azeite trufado,Condimentos,30,Ambiente,True
+13,Geleia de pimenta,Conservas,15,Refrigerado,True
+14,Vinagre balsâmico,Condimentos,30,Ambiente,True
+15,Alho torrado,Secos,30,Ambiente,True
+16,Nozes,Secos,30,Ambiente,True
+17,Mel,Secos,30,Ambiente,True
+18,Azeite de oliva,Condimentos,30,Ambiente,True
+19,Molho Ciao,Molhos,3,Refrigerado,True
+20,Chocolate,Secos,30,Ambiente,True
+21,Alici (anchova),Conservas,3,Refrigerado,True
+22,Parmesão,Refrigerados,7,Refrigerado,True
+23,Açúcar,Secos,30,Ambiente,True
+24,Sal,Secos,30,Ambiente,True
+25,Creme de tartufaio,Conservas,7,Refrigerado,True
+26,Farinha,Secos,30,Ambiente,True
+27,Cacau,Secos,30,Ambiente,True
+28,Alcachofra,Conservas,7,Refrigerado,True
+29,Pano,Limpeza,365,Depósito separado,True
+30,Orégano,Secos,30,Ambiente,True
+31,Presunto,Embutidos,5,Refrigerado,True
+32,Fibraça para lavar,Limpeza,365,Depósito separado,True
+33,Farinha para polvilhar,Secos,30,Ambiente,True
+34,Mortadela,Embutidos,5,Refrigerado,True
+35,Salame,Embutidos,5,Refrigerado,True
+36,Brie,Refrigerados,7,Refrigerado,True
