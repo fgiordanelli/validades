@@ -1,0 +1,6 @@
+streamlit
+pandas
+supabase
+websockets>=13,<16
+pywin32; platform_system == "Windows"
+python-dotenv

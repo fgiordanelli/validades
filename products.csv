@@ -1,0 +1,5 @@
+﻿id,name,category,shelf_life_days,storage,active
+1,Farinha,Secos,30,Ambiente,True
+2,Leite,Refrigerados,3,Refrigerado,True
+3,Molho da Casa,Produção,5,Refrigerado,True
+4,Frango,Proteínas,2,Refrigerado,True
