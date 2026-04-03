@@ -15,7 +15,7 @@ from supabase import Client, create_client
 APP_TITLE = "São Validades"
 DATE_FMT = "%d/%m/%Y %H:%M"
 PRINT_DATE_FMT = "%d/%m/%Y %H:%M"
-PRINTER_QUEUE = "POS9220"
+PRINTER_QUEUE = "LABEL"
 TSPL_LABEL_WIDTH_MM = 60
 TSPL_LABEL_HEIGHT_MM = 30
 TSPL_GAP_MM = 2
