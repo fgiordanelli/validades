@@ -13,7 +13,7 @@ load_dotenv()
 
 PRINT_JOBS_TABLE = os.getenv("PRINT_JOBS_TABLE", "print_jobs")
 POLL_SECONDS = int(os.getenv("POLL_SECONDS", "2"))
-PRINTER_QUEUE = os.getenv("PRINTER_QUEUE", "POS9220")
+PRINTER_QUEUE = os.getenv("PRINTER_QUEUE", "LABEL")
 
 
 def get_client() -> Client:
