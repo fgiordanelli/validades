@@ -46,3 +46,6 @@ id,name,category,shelf_life_days,storage,active
 45,Salvia,Hortifruti,3,Refrigerado,True
 46,Manjericao,Hortifruti,3,Refrigerado,True
 47,Pistache,Refrigerados,5,Refrigerado,True
+48,Biga,Refrigerados,5,Refrigerado,True
+47,Massa,Refrigerados,5,Refrigerado,True
+47,Fermento,Refrigerados,5,Refrigerado,True
