@@ -35,3 +35,13 @@ id,name,category,shelf_life_days,storage,active
 34,Mortadela,Embutidos,5,Refrigerado,True
 35,Salame,Embutidos,5,Refrigerado,True
 36,Brie,Refrigerados,7,Refrigerado,True
+37,Lasanha Bolonhesa,Refrigerados,5,Refrigerado,True
+38,Lasanha Costela,Refrigerados,5,Refrigerado,True
+39,Carne Moida,Refrigerados,5,Refrigerado,True
+40,Costela,Refrigerados,5,Refrigerado,True
+41,Polpeta,Refrigerados,5,Refrigerado,True
+42,Pesto,Refrigerados,5,Refrigerado,True
+43,Tomate Cereja,Refrigerados,5,Refrigerado,True
+44,Cebola,Refrigerados,5,Refrigerado,True
+45,Salvia,Refrigerados,5,Refrigerado,True
+46,Manjericao,Refrigerados,5,Refrigerado,True
