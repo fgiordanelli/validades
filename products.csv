@@ -41,7 +41,8 @@ id,name,category,shelf_life_days,storage,active
 40,Costela,Refrigerados,5,Refrigerado,True
 41,Polpeta,Refrigerados,5,Refrigerado,True
 42,Pesto,Refrigerados,5,Refrigerado,True
-43,Tomate Cereja,Refrigerados,5,Refrigerado,True
-44,Cebola,Refrigerados,5,Refrigerado,True
-45,Salvia,Refrigerados,5,Refrigerado,True
-46,Manjericao,Refrigerados,5,Refrigerado,True
+43,Tomate Cereja,Hortifruti,3,Refrigerado,True
+44,Cebola,Hortifruti,3,Refrigerado,True
+45,Salvia,Hortifruti,3,Refrigerado,True
+46,Manjericao,Hortifruti,3,Refrigerado,True
+47,Pistache,Refrigerados,5,Refrigerado,True
