@@ -163,8 +163,8 @@ def init_state() -> None:
         "users": [
             {"id": 1, "username": "carol", "password": "12carol", "name": "Carolina", "role": "admin"},
             {"id": 1, "username": "cesar", "password": "12cesar", "name": "Cesar", "role": "funcionario"},
-            {"id": 2, "username": "leila", "password": "12leila", "name": "João", "role": "funcionario"},
-            {"id": 3, "username": "diego", "password": "12diego", "name": "Maria", "role": "funcionario"},
+            {"id": 2, "username": "leila", "password": "12leila", "name": "Leila", "role": "funcionario"},
+            {"id": 3, "username": "diego", "password": "12diego", "name": "Diego", "role": "funcionario"},
         ],
         "launches": [],
         "current_user": None,
