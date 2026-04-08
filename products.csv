@@ -49,3 +49,17 @@ id,name,category,shelf_life_days,storage,active
 48,Biga,Refrigerados,5,Refrigerado,True
 49,Massa,Refrigerados,5,Refrigerado,True
 50,Fermento,Refrigerados,5,Refrigerado,True
+51,Camarão,Refrigerados,3,Refrigerado,True
+52,Ravioli trufado de cogumelos,Refrigerados,5,Refrigerado,True
+53,Ravioli de espinafre,Refrigerados,5,Refrigerado,True
+54,Molho bechamel,Molhos,3,Refrigerado,True
+55,Massa fresca,Refrigerados,5,Refrigerado,True
+56,Alface,Hortifruti,3,Refrigerado,True
+57,Arroz arbóreo,Secos,30,Ambiente,True
+58,Cacau 50%,Secos,30,Ambiente,True
+59,Parmesão ralado,Refrigerados,7,Refrigerado,True
+60,Manteiga,Refrigerados,7,Refrigerado,True
+61,Mussarela p/ lasanha,Refrigerados,5,Refrigerado,True
+62,Farinha de arroz,Secos,30,Ambiente,True
+63,Pão Santa Monica,Secos,3,Ambiente,True
+64,Alecrim,Hortifruti,3,Refrigerado,True
