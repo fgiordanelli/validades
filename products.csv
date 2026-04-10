@@ -63,3 +63,6 @@ id,name,category,shelf_life_days,storage,active
 62,Farinha de arroz,Secos,30,Ambiente,True
 63,Pão Santa Monica,Secos,3,Ambiente,True
 64,Alecrim,Hortifruti,3,Refrigerado,True
+65,Tiramissu geladeira,Sobremesas,5,Refrigerado,True
+66,Tiramissu congelado,Sobremesas,30,Congelado,True
+67,Torta de limão,Sobremesas,5,Refrigerado,True
