@@ -67,3 +67,7 @@ id,name,category,shelf_life_days,storage,active
 66,Tiramissu congelado,Sobremesas,30,Congelado,True
 67, Mini Torta de limão,Sobremesas,5,Refrigerado,True
 68,Cebola roxa,Hortifruti,3,Refrigerado,True
+69,Caldo de legumes,Secos,30,Ambiente,True
+70,Funghi,Secos,30,Ambiente,True
+71,Arroz arboreo,Secos,30,Ambiente,True
+72,Caldo funghi,Secos,30,Ambiente,True
