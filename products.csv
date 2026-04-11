@@ -71,3 +71,5 @@ id,name,category,shelf_life_days,storage,active
 70,Funghi,Secos,30,Ambiente,True
 71,Arroz arboreo,Secos,30,Ambiente,True
 72,Caldo funghi,Secos,30,Ambiente,True
+73,Pera,Hortifruti,3,Refrigerado,True
+74,Rucula,Hortifruti,3,Refrigerado,True
