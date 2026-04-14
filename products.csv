@@ -73,3 +73,11 @@ id,name,category,shelf_life_days,storage,active
 72,Caldo funghi,Secos,30,Ambiente,True
 73,Pera,Hortifruti,3,Refrigerado,True
 74,Rucula,Hortifruti,3,Refrigerado,True
+75,Caponata de berinjela,Antepastos,7,Refrigerado,True
+76,Molho de salada ceaser,Molhos,30,Refrigerado,True
+77,Leite,Laticínios,7,Refrigerado,True
+78,Manteiga,Laticínios,30,Refrigerado,True
+79,Torta de maracujá,Sobremesas,5,Refrigerado,True
+80,Crouton,Secos,30,Ambiente,True
+81,Maionese,Molhos,30,Refrigerado,True
+82,Molho de alho,Molhos,30,Refrigerado,True
