@@ -82,3 +82,4 @@ id,name,category,shelf_life_days,storage,active
 81,Maionese,Molhos,30,Refrigerado,True
 82,Molho de alho,Molhos,30,Refrigerado,True
 83,Torradas,Secos,30,Ambiente,True
+84,Caldo de legumes,Caldos,7,Refrigerado,True
