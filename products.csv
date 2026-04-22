@@ -83,3 +83,12 @@ id,name,category,shelf_life_days,storage,active
 82,Molho de alho,Molhos,30,Refrigerado,True
 83,Torradas,Secos,30,Ambiente,True
 84,Caldo de legumes,Caldos,7,Refrigerado,True
+85,Ravioli de gorgonzola,Massa fresca,4,Refrigerado,True
+86,Mousse de choco,Sobremesas,3,Refrigerado,True
+87,Granulado,Secos,180,Ambiente,True
+88,Nhoque,Massa fresca,5,Refrigerado,True
+89,Azeite pimenta,Condimentos,180,Ambiente,True
+90,Azeite azeitona,Condimentos,180,Ambiente,True
+91,Azeite limão siciliano,Condimentos,180,Ambiente,True
+92,Azeite alecrim,Condimentos,180,Ambiente,True
+93,Azeite alho negro,Condimentos,180,Ambiente,True
