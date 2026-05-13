@@ -92,3 +92,6 @@ id,name,category,shelf_life_days,storage,active
 91,Azeite limão siciliano,Condimentos,180,Ambiente,True
 92,Azeite alecrim,Condimentos,180,Ambiente,True
 93,Azeite alho negro,Condimentos,180,Ambiente,True
+94,Salsa crespa,Hortifruti,180,Ambiente,True
+95,Pimenta do reino,Condimentos,180,Ambiente,True
+96,Salsão,Hortifruti,180,Ambiente,True
